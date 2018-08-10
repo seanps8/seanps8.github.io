@@ -1,0 +1,162 @@
+html {
+    background-color: blanchedalmond;
+}
+
+
+header {
+    width: 100%;
+    top: 0;
+    line-height: 20px;
+    position: fixed;
+    background-color: white;
+    border-bottom: 2px solid #cccccc;
+
+}
+
+.topnav {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-right: 20%;
+    background-color: white;
+    float: right;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.nav {
+    padding: 20px;
+}
+
+.nav:hover {
+    background-color: blue;
+    color: white;
+}
+
+.Logo {
+    background-color: #4aaaa5;
+    color: white;
+    padding: 20px;
+    float: left;
+    margin-left: 20%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.info {
+    max-width: 960px;
+    margin-top: 120px;
+    margin-left: 20%;
+    background-color: white;
+    overflow: auto;
+    border: 2px solid #dddddd;
+}
+
+.rome {
+    float: left;
+    width: 200px;
+    height: 200px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+}
+
+p {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.abc {
+    padding-left: 15px;
+}
+
+
+.about {
+    color: #4aaaa5;
+    padding-left: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.name {
+    width: 700px;
+}
+
+.email {
+    width: 700px;
+
+}
+
+.message {
+    width: 700px;
+    height: 100px;
+}
+
+.sub {
+    padding-left: 20px;
+    padding-bottom: 20px;
+    color: #4aaaa5;
+}
+
+.ans {
+    padding-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.pics {
+    float: left;
+    padding: 20px;
+}
+
+.submit {
+    color: white;
+    background-color: #4aaaa5;
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.port {
+    max-width: 600px;
+    margin-top: 120px;
+    margin-left: 20%;
+    background-color: white;
+    overflow: auto;
+    border: 2px solid #dddddd;
+}
+
+.a {
+    padding: 20px;
+}
+
+.b {
+    padding: 20px;
+}
+
+.c {
+    padding: 20px;
+}
+
+.d {
+    padding: 20px;
+}
+
+.e {
+    padding: 20px;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #666666;
+    text-align: center;
+    line-height: 40px;
+    color: white;
+    border-top: 10px solid #4aaaa5;
+}
+
+.tech {
+    width: 400px;
+    height: 275px;
+    padding: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
